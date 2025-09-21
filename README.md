@@ -6,9 +6,8 @@ A classic Simon memory game implemented using Arduino Uno.
 
 ## Features
 
-- 4 LED lights with corresponding buttons
+- 3 LED lights with corresponding buttons
 - Audio feedback with different tones for each button
-- 1602 LCD display for game status and instructions
 - Progressive difficulty with increasing sequence length
 - Visual and audio cues for correct/incorrect inputs
 
@@ -18,7 +17,7 @@ A classic Simon memory game implemented using Arduino Uno.
 - 3 LEDs (different colors recommended)
 - 3 Push buttons
 - Piezo buzzer
-- 4x 220Ω resistors (for LEDs)
+- 3x 220Ω resistors (for LEDs)
 - Breadboard and jumper wires
 
 ## Wiring Diagram
@@ -27,7 +26,7 @@ A classic Simon memory game implemented using Arduino Uno.
 
 ### Other Components:
 - LEDs: Pins 2, 3, 4 (with 220Ω resistors)
-- Buttons: Pins 5, 6, 7 (to GND, using internal pull-up)
+- Buttons: Pins 5, 6, 7 
 - Buzzer: Pin 9
 
 ## Installation
