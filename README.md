@@ -1,8 +1,8 @@
 # Arduino Simon Game
 
-A classic Simon memory game implemented using Arduino Uno and a 1602 LCD display.
+A classic Simon memory game implemented using Arduino Uno.
 
-![Simon Game](images/wiring_diagram.png)
+
 
 ## Features
 
