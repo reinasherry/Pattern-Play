@@ -58,3 +58,6 @@ You can customize these aspects of the game:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## working on adding an lcd screen to display score
